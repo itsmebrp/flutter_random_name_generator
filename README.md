@@ -1,1 +1,8 @@
-# flutter_random_name_generator
+# startup_namer
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
